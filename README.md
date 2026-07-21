@@ -1,0 +1,2 @@
+# Lootbound-legal
+legal
